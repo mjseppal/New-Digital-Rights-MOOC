@@ -5,9 +5,9 @@ published: true
 
 ## GDPR for citizens
 
-1. Introduction - Landscape of personal data (personal data canvas)
-Lead responsibility: Raoul Plommer
-Content creation: Ignasi Alcalde
+1. Introduction - Landscape of personal data (personal data canvas)<\br>
+Lead responsibility: Raoul Plommer<\br>
+Content creation: Ignasi Alcalde<\br>
 
 2. GDPR in a nutshell / basic concepts
 Lead responsibility: Raoul Plommer
