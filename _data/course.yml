@@ -1,5 +1,5 @@
 title: GDPR for citizens
-description: Build Your Very Own Open Course
+description: GDPR for citizens
 modules: [Module 1, Module 2, Module 3, Module 4, Module 5, Module 6]
 signups:
  - name: Raoul Plommer
@@ -10,4 +10,3 @@ signups:
    image: https://pbs.twimg.com/profile_images/986653791234744330/EtN1XYF7_400x400.jpg
    twitter: mikaelseppala
    github: mjseppal
- 
