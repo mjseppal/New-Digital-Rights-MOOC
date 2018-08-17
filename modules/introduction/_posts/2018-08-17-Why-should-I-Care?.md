@@ -2,7 +2,7 @@
 title: GDPR is great and shit
 ---
 
-#GDPR is great and shit
+# GDPR is great and shit
 
 We all love GDPR and here's a video to show why we think so:
 
