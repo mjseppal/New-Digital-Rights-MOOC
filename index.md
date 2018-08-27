@@ -4,21 +4,27 @@ published: true
 ---
 ## What is Digirights.info?
 
-How can I stop irrelevant telemarketing? 
-Why and how do companies use my Loyalty Card data?
-How can I find information on how organizations use my data?  
-What benefits could I receive if I was able to receive my data?
-What would a society look like where I would be able to transfer My Data as needed? 
+Digirights.info - Digital Rights for Citizens is a MOOC created by [Open Knowledge Finland](http://okf.fi) and funded by [Internet Society](https://www.internetsociety.org/) and [Eurooppatiedotus](https://eurooppatiedotus.fi/) to help citizens understand and execute new rights in daily life.
 
-Digirights.info - Digital Rights for Citizens is a MOOC created by [http://okf.fi](Open Knowledge Finland) and [https://www.internetsociety.org/](Internet Society).
+## Who is this for? 
 
-## Who is it for? 
+Digital Citizen Rights can be complicated but we're working on putting their essentials in a language anyone can understand.  
 
-The average citizen.
+You don't have to be a lawyer to take to course but come as yourself, an average citizen interested in having more control over your online life.
+
+This course is for you if you're thinking about questions such as: 
+
+- How can I stop irrelevant telemarketing? 
+- Why and how do companies use my Loyalty Card data?
+- How can I find information on how organizations use my data?  
+- What benefits could I receive if I was able to receive my data?
+- What would a society look like where I would be able to transfer My Data as needed? 
+
+## When can I join in?
+
+The first opportunities for taking the course will be in October 2018. 
 
 ## Outcomes for learners
-
-“Individuals understand and execute new rights in daily life”
 
 Once the course has been completed, the learner can: 
 
