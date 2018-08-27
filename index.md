@@ -26,24 +26,18 @@ The first opportunities for taking the course will be in October 2018.
 
 ## Outcomes for learners
 
-Once the course has been completed, the learner can: 
+Upon completion, learners will be able to: 
 
-- What are new digital rights and why should I care
-- How to stop irrelevant telemarketers? Erasing data from unwanted parties
-- How is your loyalty card data used? To obtain information on the processing of your personal data
-- Internal processes for which your data is used 
-- Understands GDPR basics 
-- Understand the landscape of personal data
-- What rights do organizations have? Finding the registry statement 
-How much and what kinds of personal data is collected?
-Learner is able to find and read registry statements 
-Horizon 2/next: Reusing current data / Applications in areas: transport, energy,
-How can I sell my data?
-Learner is able to understand how to use data to benefit self (HSL: single ticket vs. monthly ticket)
-Horizon 3/future: Future of the personal data society: The MyData opportunity / portability
-How does the company process my data to create predictions? What insights do companies make based on data? How am I profiled by the organization? Are they buying data from elsewhere? 
+- Understand what are the new digital rights and why should we care
+- Have an idea of how to find out what an organization is using your data for
+- Understand what types of personal data the organization is collecting
+- Gain access to personal data 
+- Erase personal data from unwanted parties
+- Evaluate what type of benefits you might get from your personal data
+- Understand cases and examples from different industries 
+- Get a glimpse into to future of the personal data society and understand the MyData and data portability opportunity 
 
-## Course Module
+## Course Modules
 
 1. Introduction - Landscape of personal data (personal data canvas)
 
@@ -55,4 +49,4 @@ How does the company process my data to create predictions? What insights do com
 
 5. Special digital rights (e.g. kids, death, algorithms)
 
-6. MyData basics
+6. The Personal Data Society: An Introduction to MyData
