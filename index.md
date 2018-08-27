@@ -24,6 +24,8 @@ This course is for you if you're thinking about questions such as:
 
 The first opportunities for taking the course will be in October 2018. 
 
+Kurssin voi käydä myös suomeksi [digioikeudet.info](http://digioikeudet.info) -sivustolla lokakuussa 2018. 
+
 ## Outcomes for learners
 
 Upon completion, learners will be able to: 
