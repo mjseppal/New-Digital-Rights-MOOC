@@ -20,9 +20,6 @@ This course is for you if you're thinking about questions such as:
 - What benefits could I receive if I was able to receive my data?
 - What would a society look like where I would be able to transfer My Data as needed? 
 
-
-<img src="/img/questions.png" alt="drawing" width="200"/>
-
 ## When can I join in?
 
 The first opportunities for taking the course will be in October 2018. 
