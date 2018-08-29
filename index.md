@@ -52,3 +52,18 @@ Upon completion, learners will be able to:
 5. Special digital rights (e.g. kids, death, algorithms)
 
 6. The Personal Data Society: An Introduction to MyData
+
+## Join us in delivering a great project that benefits us all
+
+Your insights are needed! Join in the discussion! 
+
+We use especially Facebook and Slack as our key channels for discussion.
+
+On Facebook: join the [GDPR for Citizens group](https://www.facebook.com/groups/480060989056949/). 
+On Slack: join the [Open Knowledge Finland Slack](https://okfi-slack.herokuapp.com/) – and join [the channel for this project](https://okfi.slack.com/messages/C8FT5CNF6).
+
+This MOOC is created by the [New Digital Rights project](https://fi.okfn.org/new-digital-rights-mooc/).
+
+## Contact us
+
+You can send Raoul Plommer, Mikael Seppälä or Teemu Ropponen email about the project if you wish to contribute or have any questions: firstname.surname@okf.fi
