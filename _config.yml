@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: New-Digital-Rights-MOOC
+baseurl: /New-Digital-Rights-MOOC
 markdown: kramdown
 permalink: /:categories/:title/
 
