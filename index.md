@@ -6,6 +6,8 @@ published: true
 
 Digirights.info - Digital Rights for Citizens is a MOOC created by [Open Knowledge Finland](http://okf.fi) and funded by [Internet Society](https://www.internetsociety.org/) and [Eurooppatiedotus](https://eurooppatiedotus.fi/) to help citizens understand and execute new rights in daily life.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0uPvIyfT18" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Who is this for? 
 
 Digital Citizen Rights can be complicated but we're working on putting their essentials in a language anyone can understand.  
