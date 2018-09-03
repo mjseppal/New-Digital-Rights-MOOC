@@ -1,8 +1,8 @@
 ---
-title: GDPR is great and shit
+title: Module 1: Introduction - Landscape to personal data
 ---
 
-# GDPR is great and shit
+# Module by Ignasi Alcalde
 
 We all love GDPR and here's a video to show why we think so:
 
