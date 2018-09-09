@@ -21,6 +21,8 @@ Juri Mattila, Timo Seppälä and Jan Holmström speak about an emerging form of 
 
 ![Open, Decentralized Data Ecosystems](http://digirights.info/img/4waveplatforms.png)
 
+## A Decentralized Web?
+
 Watch the following video from Complexity Labs to understand the opportunities and implications of decentralized platforms and the decentralized web. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mXiiL5Rui8M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -31,7 +33,7 @@ Even though we now “Google” for information or “Uber” to our friend’s 
 
 ### Sources
 
-BRIE Working Paper 2016-2. [“Product-centric Information Management: A Case Study of a Shared Platform with Blockchain Technology“. Juri Mattila, Timo Seppälä and Jan Holmström (May 2016).](http://www.brie.berkeley.edu/wp-content/uploads/2015/02/Mattila-Sepp%C3%A4l%C3%A4-Holmstr%C3%B6m-2016-Product-centric-Information-Management.pdf)
+BRIE Working Paper 2016-2. [“Product-centric Information Management: A Case Study of a Shared Platform with Blockchain Technology“. Juri Mattila, Timo Seppälä and Jan Holmström (May 2016).](http://www.brie.berkeley.edu/wp-content/uploads/2015/02/Mattila-Sepp%C3%A4l%C3%A4-Holmstr%C3%B6m-2016-Product-centric-Information-Management.pdf)  
 Complexity Labs: [Blockchain Course/Decentralized Web Youtube-video](https://www.youtube.com/watch?v=mXiiL5Rui8M&list=PLsJWgOB5mIMDMyCcZSwSKin2XPJRYI9Ya&index=5)
 
 ### Image Credits
