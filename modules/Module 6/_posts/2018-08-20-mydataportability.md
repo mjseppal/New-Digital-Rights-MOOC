@@ -1,7 +1,7 @@
 ---
 title: How does data portability of MyData actually work?
 ---
-# How does data portability or MyData actually work?
+# How does data portability of MyData actually work?
 
 The ability to transfer your data easily, or data portability, might sound like an easy concept but there is a lot of things that have to happen on the background for it to almost as simple as clicking on a few buttons. 
 
