@@ -1,5 +1,5 @@
 ---
-title: Data Portability - The Ability to Transfer Your Data Easily
+title: Data Portability
 ---
 # Data Portability - The Ability to Transfer Your Data Easily
 
@@ -30,9 +30,7 @@ If I want to switch service providers without losing all my history, contacts, p
 
 ## Image Credits
 
-The MyData White Paper 
+The MyData White Paper  
 [https://github.com/mydataglobal/white-paper/blob/gh-pages/manuscript/images/figure3-1noinfra.png](https://github.com/mydataglobal/white-paper/blob/gh-pages/manuscript/images/figure3-1noinfra.png)  
-[https://github.com/mydataglobal/white-paper/blob/gh-pages/manuscript/images/figure3-1monopolies.png](https://github.com/mydataglobal/white-paper/blob/gh-pages/manuscript/images/figure3-1monopolies.png)
-[https://github.com/mydataglobal/white-paper/blob/gh-pages/manuscript/images/figure3-1mydata.png]
-(https://github.com/mydataglobal/white-paper/blob/gh-pages/manuscript/images/figure3-1mydata.png)
-
+[https://github.com/mydataglobal/white-paper/blob/gh-pages/manuscript/images/figure3-1monopolies.png](https://github.com/mydataglobal/white-paper/blob/gh-pages/manuscript/images/figure3-1monopolies.png)  
+[https://github.com/mydataglobal/white-paper/blob/gh-pages/manuscript/images/figure3-1mydata.png](https://github.com/mydataglobal/white-paper/blob/gh-pages/manuscript/images/figure3-1mydata.png)
