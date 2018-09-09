@@ -5,19 +5,19 @@ title: Data Portability
 
 As stated earlier, the ability to transfer your data easily or, using it’s technical term, data portability, is at the center of MyData and the future of personal data. 
 
-**No Infrastructure for Data Portability**
+## No Infrastructure for Data Portability
 
 The example of the pregnant lady from the previous section depicts a person’s problem of not being able to transfer data between parties with whom we have to deal with in our everyday lives. There might be some point to point opportunities for transferring data but often we citizens are the ones who carry pieces of paper around from place to place. 
 
 ![No Infrastructure](http://digirights.info/img/figure3-1noinfra.png)
 
-**Large Platforms Control Your Data**
+## Large Platforms Control Your Data
 
 In today’s world we have some large platform players such as Google, Apple, Facebook, Amazon and Microsoft that are able to handle a large portion of the data that we create and use in our everyday lives. The reason why we are so compelled to being customers of the Apple ecosystem is the seamless experience we can have with our devices and our applications, helping us do things better in our lives. But the problem with these big players is that it is very difficult to change away from them. 
 
 ![GAFAM Monopolies](http://digirights.info/img/figure3-1monopolies.png)
 
-**Human-centric Data Portability**
+## Human-centric Data Portability
 
 The MyData vision of data portability is that you as a person or a citizen should have a 360 view into your data and be able to provision or transfer it from one place to the other easily. 
 
