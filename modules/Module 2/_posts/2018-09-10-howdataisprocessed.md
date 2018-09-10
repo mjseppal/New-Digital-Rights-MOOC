@@ -1,5 +1,5 @@
 ---
-title: Session 2: Right to know how your data is used
+title: Right to know how your data is used
 ---
 
 You have the right to obtain information on the purpose for which your personal data is collected and how it is processed.
