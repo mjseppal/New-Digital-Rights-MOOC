@@ -2,6 +2,9 @@
 title: Know how your data is used
 ---
 
+# The right to know how your data is used
+
+
 You have the right to obtain information on the purpose for which your personal data is collected and how it is processed.
 
 A company, authority or corporation processing your personal data is called a controller. Parties such as your employer, bank and operators that collect data from you on the internet are controllers with regard to your personal data.
