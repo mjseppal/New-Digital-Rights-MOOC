@@ -4,7 +4,7 @@ title: Why Should We Citizens Care About Our Digital Rights?
 
 # Module 1: Why Should We Citizens Care About Our Digital Rights?
 
-**Learning outcomes of the module**
+### Learning outcomes of the module
 
 The goal of this module is not that much to provide information about our digital rights but rather explore the opportunities of why they might be relevant to our lives even though we might not yet understand them or be able to see their future implications.  
 
