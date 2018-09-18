@@ -5,12 +5,13 @@ title: Right to delete
 &nbsp;
 
 ### If you want to have your data erased
+&nbsp;
 
 In certain situations, you have the right to request the controller to erase the personal data concerning you.
 
-Personal data refers to information by which you can be identified.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0uPvIyfT18" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-A company, authority or corporation that collects your personal data is called a **controller**.
+Personal data is information by which you can be identified. A company, authority or corporation that collects your personal data is called a **controller**.
 
 The controller is required to erase your personal data in the following situations:
 
