@@ -1,7 +1,7 @@
 ---
 title: Right to access
 ---
-# Session 2 : Right to access
+# Session 3 : Right to access
 
 **Learning outcomes of the module**
 
