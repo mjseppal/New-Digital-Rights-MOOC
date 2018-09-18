@@ -1,5 +1,5 @@
 ---
-title: Stop your data being processed
+title: Stop your data being used
 ---
 # Session 4 : Right of denying usage of of your data
 
