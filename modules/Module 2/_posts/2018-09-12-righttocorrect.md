@@ -1,7 +1,7 @@
 ---
 title: Right to correct
 ---
-# Session 3 : Right to correct information about you
+# Session 4 : Right to correct information about you
 
 **If you want to have your data corrected**
 
