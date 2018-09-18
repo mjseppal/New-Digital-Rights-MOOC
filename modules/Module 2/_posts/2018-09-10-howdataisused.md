@@ -3,7 +3,7 @@ title: Know how your data is used
 ---
 
 # Session 2: The right to know how your data is used
-
+&nbsp;
 
 You have the right to obtain information on the purpose for which your personal data is collected and how it is processed.
 
