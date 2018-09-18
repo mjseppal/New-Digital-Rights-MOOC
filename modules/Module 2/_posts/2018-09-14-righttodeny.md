@@ -4,7 +4,7 @@ title: Stop your data being used
 # Session 6 : Right of denying usage of of your data
 &nbsp;
 
-###If you do not want all your data processed
+### If you do not want all your data processed
 
 In certain situations, you have the right to restrict the processing of your personal data. You can also object to the processing of your personal data if you do not want it processed at all.
 
