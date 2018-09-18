@@ -4,7 +4,7 @@ title: Right to delete
 # Session 5 : Right to erase data of you
 &nbsp;
 
-###If you want to have your data erased
+### If you want to have your data erased
 
 In certain situations, you have the right to request the controller to erase the personal data concerning you.
 
