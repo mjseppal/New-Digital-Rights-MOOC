@@ -1,8 +1,7 @@
 ---
-title: Right to restrict processing
+title: Stop your data being processed
 ---
-# Session 4 : Right of restricting usage of some of your data
-
+# Session 4 : Right of denying usage of of your data
 
 **If you do not want all your data processed**
 
