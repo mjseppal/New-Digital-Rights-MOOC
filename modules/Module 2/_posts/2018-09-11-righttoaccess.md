@@ -1,17 +1,14 @@
 ---
 title: Right to access
 ---
-# Session 3 : Right to access
-
-**Learning outcomes of the module**
-
-After going through this module you will understand how to access your data held by companies and organisations.
+# Session 3 : Right to access your data
 
 The controller is required to tell you whether it is processing personal data concerning you.
 You have the right to inspect which of your personal data different controllers are processing.  Thus, you can also verify the accuracy of the data concerning you.
+
 Personal data refers to information by which you can be identified.
 
-A company, authority or corporation that collects your personal data is called a controller.
+A company, authority or corporation that collects your personal data is called a **controller**.
 
 The controller is required to provide you with a copy of your personal data processed by it. As a rule, the copy is provided free of charge. If you request more than one copy, the controller is entitled to charge a fee to cover the costs.
 
