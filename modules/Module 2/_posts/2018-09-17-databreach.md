@@ -2,8 +2,7 @@
 title: Right to know of a data breach
 ---
 # Session 8 : Right to know if your data has been breached
-
-**If you want to have your data moved**
+&nbsp;
 
 The GDPR introduces a duty on all organisations to report certain types of personal data breach to the relevant supervisory authority. You must do this within 72 hours of becoming aware of the breach, where feasible.
 
