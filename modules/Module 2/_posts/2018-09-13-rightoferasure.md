@@ -10,7 +10,7 @@ In certain situations, you have the right to request the controller to erase the
 
 Personal data refers to information by which you can be identified.
 
-A company, authority or corporation that collects your personal data is called a controller.
+A company, authority or corporation that collects your personal data is called a **controller**.
 
 The controller is required to erase your personal data in the following situations:
 
@@ -34,7 +34,7 @@ The erasure of data is free of charge. If the erasure request is unfounded or un
 
 If the controller erases your data, it must communicate the erasure to all parties to whom the data have been disclosed in the past if viable. You can ask the controller to tell you the recipients of your data.
 
-**How to proceed**
+### How to proceed
 
 Make the erasure request directly to the controller. Additional information on the correct channels can usually be obtained from the controller's website or customer service.
 
