@@ -1,7 +1,7 @@
 ---
 title: Stop your data being used
 ---
-# Session 4 : Right of denying usage of of your data
+# Session 6 : Right of denying usage of of your data
 
 **If you do not want all your data processed**
 
