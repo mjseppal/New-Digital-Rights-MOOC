@@ -2,6 +2,7 @@
 title: Deny machine made decisions
 ---
 # Session 7 : Right to deny decision making based solely on automated processing
+&nbsp;
 
 Have you been subjected to a decision based solely on automated processing?
 You have the right to demand human involvement in decisions that concern you.
@@ -20,7 +21,7 @@ Automated decision-making is permitted if
 
 In such cases, at minimum, you have the right to demand human involvement in decisions that concern you. You also have the right to express your opinion and dispute the decision.
 
-**How to proceed**
+### How to proceed
 
 Make the request directly to the controller. Additional information on the correct channels can usually be obtained from the controller's website or customer service.
 
