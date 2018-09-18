@@ -39,7 +39,7 @@ Objecting is possible if the controller is processing your data on the basis of 
 
 You can object to the processing of your data on grounds relating to your particular situation. In the case of direct marketing, however, you do not need to justify your objection.
 
-###How to proceed
+### How to proceed
 
 Make the request directly to the controller. Additional information on the correct channels can usually be obtained from the controller's website or customer service.
 
