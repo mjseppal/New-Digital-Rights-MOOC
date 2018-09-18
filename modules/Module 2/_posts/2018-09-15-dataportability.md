@@ -2,8 +2,9 @@
 title: Right to data portability
 ---
 # Session 7 : Right to move your personal data to other services
+&nbsp;
 
-**If you want to have your data moved**
+### If you want to have your data moved
 
 In certain situations, you have the right to receive your data and transfer them to another service provider.
 
@@ -24,7 +25,7 @@ Transferring your personal data does not necessarily mean that it will be erased
 
 In most cases, the transfer of data is free of charge. If your request is unfounded or unreasonable, the controller has the right to charge a reasonable fee or refuse the request.
 
-**How to proceed**
+### How to proceed
 
 Make the request directly to the controller. Additional information on the correct channels can usually be obtained from the controller's website or customer service.
 
