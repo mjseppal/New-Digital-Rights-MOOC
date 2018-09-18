@@ -1,7 +1,7 @@
 ---
 title: Right to access
 ---
-# Module 2 : GDPR in a nutshell
+# Session 2 : Right to access
 
 **Learning outcomes of the module**
 
@@ -39,4 +39,5 @@ In the request, state
 - your contact details (such as your e-mail address or telephone number).
 
 The controller is required to reply to your request within one month. If the requests are numerous or complex, the controller can reply that it needs more time to process them. If the controller announces that it needs more time for processing, the deadline for replying will be three months from your original request. Wait for the controller's reply. Notifying you of a longer processing time does not mean that the controller will refuse to provide the information.
+
 If the controller refuses to provide the information you have requested, it must state the reasons for its refusal. The refusal must always be based on law. If you feel that the controller did not have legal grounds for its refusal, you can contact the Data Protection Ombudsman if necessary.
