@@ -8,6 +8,8 @@ title: Why Should We Citizens Care About Our Digital Rights?
 
 The goal of this module is not that much to provide information about our digital rights but rather explore the opportunities of why they might be relevant to our lives even though we might not yet understand them or be able to see their future implications.  
 
+![Why Should We Citizens Care About Our Digital Rights?](https://github.com/Plommer/New-Digital-Rights-MOOC/blob/gh-pages/img/digirightsmodule1infographic.jpg)
+
 ## The EU has done a vast job in giving you now have more control on you online life. Know what you can do!
 
 You might be thinking what’s with all this hassle with digital rights and be slightly annoyed by the way their current implementation bothers you but asking for your consent on web pages to use you data. The thing to understand is that there is a whole lot more to the picture than meets the eye at first.
