@@ -1,7 +1,7 @@
 ---
 title: Right to delete
 ---
-# Session 4 : Right to erase data of you
+# Session 5 : Right to erase data of you
 
 **If you want to have your data erased**
 
