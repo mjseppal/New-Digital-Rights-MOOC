@@ -2,8 +2,9 @@
 title: Right to correct
 ---
 # Session 4 : Right to correct information about you
+&nbsp;
 
-**If you want to have your data corrected**
+###If you want to have your data corrected
 
 You have the right to demand the rectification of inaccurate personal data concerning you.
 
@@ -11,7 +12,7 @@ The accuracy of your personal data is a part of your legal protection. You have 
 
 Personal data refers to information by which you can be identified.
 
-A company, authority or corporation that collects your personal data is called a controller.
+A company, authority or corporation that collects your personal data is called a **controller**.
 
 If you come across inaccurate personal data concerning you, you can request the controller to rectify it. Rectification means that
 
@@ -23,7 +24,7 @@ Rectification of data is free of charge. If the rectification request is unfound
 
 If the controller rectifies your data, it must communicate the rectification to all parties to whom the data have been disclosed in the past if viable. You can ask the controller to tell you the recipients of your data.
 
-**How to proceed**
+###How to proceed###
 
 Make the rectification request directly to the controller. Additional information on the correct channels can usually be obtained from the controller's website or customer service.
 
