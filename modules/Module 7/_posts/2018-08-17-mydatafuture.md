@@ -1,7 +1,7 @@
 ---
 title: The Future of Digital Citizen Rights
 --- 
-# Module 6: The Future of Digital Citizen Rights: MyData - Personal Data at Your Disposal
+# Module 7: The Future of Digital Citizen Rights: MyData - Personal Data at Your Disposal
 
 ### Learning outcomes of the module 
 
