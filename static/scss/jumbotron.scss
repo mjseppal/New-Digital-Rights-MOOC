@@ -1,0 +1,86 @@
+
+.jumbotron {
+    line-height:0;
+    margin-top:6em;
+    margin-bottom:3em;
+    padding:0;
+    position: relative;
+    overflow: hidden;
+    background-repeat:no-repeat;
+    background-image: url(assets/bgenstatic.jpg);
+    background-size:100% 100%;
+
+    &:hover .titles {padding:0;margin:0;
+        text-decoration: none;
+        opacity:1;
+    }
+    &:hover .video {padding:0;margin:0;
+        display: inline;
+        opacity:1;
+    }
+}
+.video {
+    line-height:0;
+    width:100%;height:100%;
+    opacity:0;
+    position: relative;
+    margin:0;
+    padding:0;
+    z-index: 1;
+    display: inline;
+    transition: opacity .2s ease;
+}
+
+.overlay {width:100%;height:100%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: 999;
+    overflow:hidden;
+    .titles {
+        display: table;
+        width: 100%;
+        height: 80%;
+        text-transform:uppercase;
+        opacity:1;
+        transition: all .5s ease;
+        color: #FFFFFF;
+        background:transparent;
+        text-decoration: none;
+        text-shadow:
+            -2px -2px 0 rgba(0,0,0,.5),
+            2px 2px 0 rgba(0,0,0,.5);
+        &:hover {
+            color:#04FF5C;
+        }
+        p {
+            padding-top:6%;
+            margin:0;
+            display: table-cell;
+            vertical-align: top;
+            text-align: center;
+            text-decoration: none;
+            font-size: 60px;
+        }
+    }
+}
+#gsanim {
+  fill: url(#grad1);
+}
+
+#stop1 {
+  animation: change-color1 5s ease-in-out infinite alternate;
+}
+#stop2 {
+  animation: change-color2 5s ease-in-out infinite alternate;
+}
+@keyframes change-color1 {
+  0% {stop-color: #5CFF26;}
+  100% {stop-color: #19C72B;}
+}
+@keyframes change-color2 {
+  0% {stop-color: #19C72B;}
+  100% {stop-color: #5CFF26;}
+}
